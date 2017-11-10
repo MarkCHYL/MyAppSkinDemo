@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
     android:orientation="vertical"
-    android:background="?attr/mainBackground"
-    tools:context="com.mark.demo.myappskindemo.MarkActivity">
+    android:id="@+id/linearLayout"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" tools:context="mark.view.com.myskinviewdemo3.MarkActivity">
 
     <Button
         android:id="@+id/btn_theme"
@@ -19,6 +18,5 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center_horizontal"
-        android:text="通过setTheme()的方法" />
-
+        android:text="通过资源 id 映射，回调接口" />
 </LinearLayout>

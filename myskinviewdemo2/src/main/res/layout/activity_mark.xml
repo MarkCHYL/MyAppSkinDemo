@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
     android:orientation="vertical"
     android:background="?attr/mainBackground"
-    tools:context="com.mark.demo.myappskindemo.MarkActivity">
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" tools:context="com.view.mark.myskinviewdemo2.MarkActivity">
 
     <Button
         android:id="@+id/btn_theme"
@@ -19,6 +18,5 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center_horizontal"
-        android:text="通过setTheme()的方法" />
-
+        android:text="使用 Android Support Library 中的 UiMode 方法" />
 </LinearLayout>
