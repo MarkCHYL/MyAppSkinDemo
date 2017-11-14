@@ -3,11 +3,13 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MyAppSkinDemo.iml" filepath="$PROJECT_DIR$/MyAppSkinDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MyAppSkinDemo.iml" filepath="$PROJECT_DIR$/MyAppSkinDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jspermission/jspermission.iml" filepath="$PROJECT_DIR$/jspermission/jspermission.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myskinviewdemo2/myskinviewdemo2.iml" filepath="$PROJECT_DIR$/myskinviewdemo2/myskinviewdemo2.iml" />
       <module fileurl="file://$PROJECT_DIR$/myskinviewdemo2/myskinviewdemo2.iml" filepath="$PROJECT_DIR$/myskinviewdemo2/myskinviewdemo2.iml" />
       <module fileurl="file://$PROJECT_DIR$/myskinviewdemo3/myskinviewdemo3.iml" filepath="$PROJECT_DIR$/myskinviewdemo3/myskinviewdemo3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myskinviewdemo3/myskinviewdemo3.iml" filepath="$PROJECT_DIR$/myskinviewdemo3/myskinviewdemo3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myskinviewdemo4/myskinviewdemo4.iml" filepath="$PROJECT_DIR$/myskinviewdemo4/myskinviewdemo4.iml" />
     </modules>
   </component>
 </project>

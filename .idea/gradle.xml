@@ -9,8 +9,10 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/jspermission" />
             <option value="$PROJECT_DIR$/myskinviewdemo2" />
             <option value="$PROJECT_DIR$/myskinviewdemo3" />
+            <option value="$PROJECT_DIR$/myskinviewdemo4" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

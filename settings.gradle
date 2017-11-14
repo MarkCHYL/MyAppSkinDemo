@@ -1,1 +1,1 @@
-include ':app', ':myskinviewdemo2', ':myskinviewdemo3'
+include ':app', ':myskinviewdemo2', ':myskinviewdemo3', ':myskinviewdemo4', ':jspermission'
